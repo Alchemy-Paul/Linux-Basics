@@ -1139,6 +1139,14 @@ O    # open a line above the current cursor position
 |  06. |fg | brings the most recent job to foreground|
 |  07. |fg n | brings job n to the foreground|
 
+## #htop
+you can use either htop or bashtop to view processes
+
+```bash
+$ sudo apt install htop
+$ sudo apt bashtop
+```
+
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
