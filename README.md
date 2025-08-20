@@ -1072,7 +1072,7 @@ O    # open a line above the current cursor position
    yfx ( Copy until x and x is included )
    ```
 
-   **Cut** There are various cutting or deleting commands based on amount of text to be deleted. The `d` character is used to perform this operation.
+   **Cut** There are various cutting, deleting commands based on amount of text to be deleted. The `d` character is used to perform this operation.
 
    i. Cut entire line: Cut the entire line where the cursor is located
 
@@ -1140,7 +1140,7 @@ O    # open a line above the current cursor position
 |  07. |fg n | brings job n to the foreground|
 
 ## #htop
-you can use either htop or bashtop to view processes
+you can use either htop or bashtop to view processes.
 
 ```bash
 $ sudo apt install htop
